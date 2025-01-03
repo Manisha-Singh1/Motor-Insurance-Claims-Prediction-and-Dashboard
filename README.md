@@ -17,7 +17,7 @@ This project aims to predict motor insurance claims using machine learning model
 #### Project Overview
 **Dataset**: The dataset contains features such as `VehAge`, `Exposure`, `DrivAge`, and `Region`, along with the target variable `Claim`.
 **Tools Used**:
-- **Python**: Pandas, Scikit-learn, Matplotlib, SMOTE.
+- **Python**: Pandas, Numpy , Matplotlib, Seaborn, SMOTE.
 - **Power BI**: Interactive dashboard for visualizing predictions and insights.
 
 
@@ -73,11 +73,11 @@ An interactive dashboard was created in Power BI to visualize insights from the 
 3. **Claims by Region**: Highlights claim distribution across regions.
 4. **Feature Importance**: Shows the top predictors of claims.
 
-![Dashboard Screenshot](link-to-dashboard-screenshot.png)
+![Dashboard Screenshot](Power BI dashboard- image.png)
 
 ## How to Run the Code
 1. Clone this repository:
-   git clone https://github.com/your-repo/motor-insurance-claims.git
+   git clone [https://github.com/your-repo/motor-insurance-claims.git](https://github.com/Manisha-Singh1/Motor-Insurance-Claims-Prediction-and-Dashboard)
 
 2. Install the required dependencies:
    pip install -r requirements.txt
@@ -86,7 +86,7 @@ An interactive dashboard was created in Power BI to visualize insights from the 
    jupyter notebook Motor_Insurance.ipynb
 
 4. View the Power BI dashboard:
-   -Open the Motor_Insurance.pbix file in Power BI Desktop.
+   -Open the France Motors Insurance PB dashboard.pbix file in Power BI Desktop.
 
 
 ## Results and Insights
@@ -99,7 +99,7 @@ An interactive dashboard was created in Power BI to visualize insights from the 
 
 
 ## Acknowledgments
-- Dataset: [Motor Insurance Dataset](https://www.kaggle.com/datasets)
+- Dataset: [Motor Insurance Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/floser/french-motor-claims-datasets-fremtpl2freq))
 - Tools: Python, Power BI
-- Libraries: Scikit-learn, Pandas, Matplotlib
+- Libraries: Pandas, Numpy , Matplotlib, Seaborn, SMOTE
 
