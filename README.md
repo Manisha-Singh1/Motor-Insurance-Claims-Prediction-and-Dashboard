@@ -73,7 +73,7 @@ An interactive dashboard was created in Power BI to visualize insights from the 
 3. **Claims by Region**: Highlights claim distribution across regions.
 4. **Feature Importance**: Shows the top predictors of claims.
 
-![Dashboard Screenshot](Power BI dashboard- image.png)
+![Dashboard Screenshot][Power BI dashboard-image.png](https://github.com/Manisha-Singh1/Motor-Insurance-Claims-Prediction-and-Dashboard/blob/main/Power%20BI%20dashboard-%20image.png?raw=true)
 
 ## How to Run the Code
 1. Clone this repository:
