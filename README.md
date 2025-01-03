@@ -1,4 +1,4 @@
-# Motor Insurance Claims Prediction and Dashboard
+# French Motor Insurance Claims Prediction and Dashboard
 
 ## Project Description
 This project aims to predict motor insurance claims using machine learning models such as Logistic Regression and Random Forest. The objective is to provide actionable insights to insurers through an interactive Power BI dashboard. The project includes data preprocessing, feature engineering, model evaluation, and dashboard creation to aid in risk assessment and decision-making.
